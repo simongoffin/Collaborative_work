@@ -1,3 +1,4 @@
 import random
 
-print random.randrange(0,25)
+
+print random.randrange(0,30)
